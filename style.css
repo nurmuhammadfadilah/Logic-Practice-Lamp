@@ -1,0 +1,35 @@
+.bg-ruangkeluarga{
+    background-image: url(assets/images/ruang-keluarga.jpg);
+    background-blend-mode:overlay;
+    background-color: gray;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.bg-ruangmakan{
+    background-image: url(assets/images/ruang-makan.jpg);
+    background-blend-mode:overlay;
+    background-color: gray;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.kamar{
+    background-image: url(assets/images/kamar.jpg);
+    background-blend-mode:overlay;
+    background-color: gray;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.bg-ruangtamu{
+    background-image: url(assets/images/ruang-tamu.jpg);
+    background-blend-mode:overlay;
+    background-color: gray;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.pl-10{
+    font-weight: 600;
+}
